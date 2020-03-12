@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z0TSuX9rpcXqqKfs5Fte6J1seM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -66,21 +69,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="907" height="250" key="GridCell.Tab.0.bottom" timestamp="1583975325213">
+    <state width="907" height="250" key="GridCell.Tab.0.bottom" timestamp="1583975748903">
       <screen x="0" y="23" width="1680" height="936" />
     </state>
-    <state width="907" height="250" key="GridCell.Tab.0.bottom/0.23.1680.936@0.23.1680.936" timestamp="1583975325213" />
-    <state width="907" height="250" key="GridCell.Tab.0.center" timestamp="1583975325212">
+    <state width="907" height="250" key="GridCell.Tab.0.bottom/0.23.1680.936@0.23.1680.936" timestamp="1583975748903" />
+    <state width="907" height="250" key="GridCell.Tab.0.center" timestamp="1583975748902">
       <screen x="0" y="23" width="1680" height="936" />
     </state>
-    <state width="907" height="250" key="GridCell.Tab.0.center/0.23.1680.936@0.23.1680.936" timestamp="1583975325212" />
-    <state width="907" height="250" key="GridCell.Tab.0.left" timestamp="1583975325211">
+    <state width="907" height="250" key="GridCell.Tab.0.center/0.23.1680.936@0.23.1680.936" timestamp="1583975748902" />
+    <state width="907" height="250" key="GridCell.Tab.0.left" timestamp="1583975748902">
       <screen x="0" y="23" width="1680" height="936" />
     </state>
-    <state width="907" height="250" key="GridCell.Tab.0.left/0.23.1680.936@0.23.1680.936" timestamp="1583975325211" />
-    <state width="907" height="250" key="GridCell.Tab.0.right" timestamp="1583975325212">
+    <state width="907" height="250" key="GridCell.Tab.0.left/0.23.1680.936@0.23.1680.936" timestamp="1583975748902" />
+    <state width="907" height="250" key="GridCell.Tab.0.right" timestamp="1583975748903">
       <screen x="0" y="23" width="1680" height="936" />
     </state>
-    <state width="907" height="250" key="GridCell.Tab.0.right/0.23.1680.936@0.23.1680.936" timestamp="1583975325212" />
+    <state width="907" height="250" key="GridCell.Tab.0.right/0.23.1680.936@0.23.1680.936" timestamp="1583975748903" />
   </component>
 </project>
