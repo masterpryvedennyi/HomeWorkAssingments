@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa542866-f60c-4d68-9742-1b71cdc6a1a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ae8455d7-2ba4-449d-b3a1-12e0b16daad6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,11 +15,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Z0TSuX9rpcXqqKfs5Fte6J1seM" />
@@ -69,7 +62,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="09d83963-4e04-4873-89ea-5e36dddd30cd" name="Default Changelist" comment="" />
+      <changelist id="ae8455d7-2ba4-449d-b3a1-12e0b16daad6" name="Default Changelist" comment="" />
       <created>1583975014425</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -78,14 +71,6 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="448" y="130" key="CommitChangelistDialog2" timestamp="1586296862094">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="448" y="130" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1586296862094" />
-    <state x="168" y="94" key="DiffContextDialog" timestamp="1586296942731">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="168" y="94" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586296942731" />
     <state width="907" height="250" key="GridCell.Tab.0.bottom" timestamp="1584196630549">
       <screen x="0" y="23" width="1680" height="936" />
     </state>
@@ -102,17 +87,5 @@
       <screen x="0" y="23" width="1680" height="936" />
     </state>
     <state width="907" height="250" key="GridCell.Tab.0.right/0.23.1680.936@0.23.1680.936" timestamp="1584196630549" />
-    <state x="100" y="100" width="1480" height="850" key="ShowDiffWithBranchDialog" timestamp="1586296850545">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="100" y="100" width="1480" height="850" key="ShowDiffWithBranchDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586296850545" />
-    <state x="100" y="100" width="1480" height="850" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1586296850546">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="100" y="100" width="1480" height="850" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586296850546" />
-    <state x="465" y="325" key="git4idea.merge.GitPullDialog" timestamp="1586296980082">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="465" y="325" key="git4idea.merge.GitPullDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586296980082" />
   </component>
 </project>
